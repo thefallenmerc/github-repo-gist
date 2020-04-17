@@ -1,0 +1,8 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+pre[class*="language-"] {
+    margin: 0;
+}
